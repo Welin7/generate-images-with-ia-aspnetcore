@@ -1,0 +1,6 @@
+@ProjectOpenAi_HostAddress = http://localhost:5212
+
+GET {{ProjectOpenAi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
